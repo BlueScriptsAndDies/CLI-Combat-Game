@@ -16,4 +16,4 @@ Hope you enjoy! :D
 
 # Movements
 
-Currently there are only "W" to move forward,"S" to move backwards and "F" to fight.
+Currently there are "W" to move forward,"S" to move backwards and "F" to fight.
