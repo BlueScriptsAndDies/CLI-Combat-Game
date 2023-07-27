@@ -6,13 +6,17 @@ I hope you some-what enjoy the game.
 
 I Dont really know python so dont expect lots.
 
-# Massive Update!
+# Score Keeper Update!
 
-I rewrote the entire code which fixed lots of bugs.
+Now added a score keeper. whenever you lose it will display your score and your highscore.
 
-Enimies can now spawn anywhere.
+Not much but enjoy! :D
 
-Hope you enjoy! :D
+# Future Plans
+
+Mob API
+
+This will make it so enimies will now go towards you and hopefully fix mob bugs.
 
 # Movements
 
